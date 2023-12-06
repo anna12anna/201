@@ -1,0 +1,9 @@
+.mb-2{
+    width: 500px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.darkcolor{
+    background-color: rgb(64, 18, 107) !important;
+}
